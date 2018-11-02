@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftplayerCalcTest", "SoftplayerCalcTest\SoftplayerCalcTest.csproj", "{B8AEF72D-B5F3-468C-9474-4C06E147378D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{DCDCD068-B903-4B55-AE16-6C122916FC30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8AEF72D-B5F3-468C-9474-4C06E147378D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8AEF72D-B5F3-468C-9474-4C06E147378D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8AEF72D-B5F3-468C-9474-4C06E147378D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8AEF72D-B5F3-468C-9474-4C06E147378D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDCD068-B903-4B55-AE16-6C122916FC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDCD068-B903-4B55-AE16-6C122916FC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDCD068-B903-4B55-AE16-6C122916FC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDCD068-B903-4B55-AE16-6C122916FC30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26DC7C84-E62C-464D-BC14-84A442A4CC67}
+	EndGlobalSection
+EndGlobal

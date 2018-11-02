@@ -1,0 +1,56 @@
+openapi: 3.0.0
+servers:
+  - description: SwaggerHub API Auto Mocking
+    url: 'https://virtserver.swaggerhub.com/marcosmenicucci/SoftplayerCalcTest/1.0.0'
+info:
+  description: This is a simple API
+  version: 1.0.0
+  title: SoftplayerCalcTest API
+  contact:
+    email: marcosmenicucci@gmail.com
+paths:
+  '/api/calc/:initialValue/:time':
+    get:
+      tags:
+        - Serviço para calcular juros composto
+      description: |
+        Serviço para calcular juros composto
+      parameters:
+        - in: path
+          name: initialValue
+          description: Valor inicial
+          required: true
+          schema:
+            type: number
+        - in: path
+          name: time
+          description: Tempo em meses
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Sucesso
+          content:
+            application/json:
+              schema:
+                type: string
+                example: '105,10'
+        '400':
+          description: bad input parameter
+  /api/showmethecode:
+    get:
+      tags:
+        - Serviços para calcular juros composto
+      description: |
+        Retornar a url de onde encontra-se o fonte no github
+      responses:
+        '200':
+          description: Sucesso
+          content:
+            application/json:
+              schema:
+                type: string
+                example: 'https://github.com/marcosmenicucci/SoftplayerCalcTestWebApi'
+        '400':
+          description: bad input parameter
