@@ -18,7 +18,6 @@ D:\Prova\SoftplayerCalcTest2\SoftplayerCalcTest\SoftplayerCalcTest\bin\Debug\net
 D:\Prova\SoftplayerCalcTest2\SoftplayerCalcTest\SoftplayerCalcTest\bin\Debug\netcoreapp2.1\SoftplayerCalcTest.runtimeconfig.dev.json
 D:\Prova\SoftplayerCalcTest2\SoftplayerCalcTest\SoftplayerCalcTest\bin\Debug\netcoreapp2.1\SoftplayerCalcTest.dll
 D:\Prova\SoftplayerCalcTest2\SoftplayerCalcTest\SoftplayerCalcTest\bin\Debug\netcoreapp2.1\SoftplayerCalcTest.pdb
-D:\Prova\SoftplayerCalcTest2\SoftplayerCalcTest\SoftplayerCalcTest\obj\Debug\netcoreapp2.1\SoftplayerCalcTest.csprojAssemblyReference.cache
 D:\Prova\SoftplayerCalcTest2\SoftplayerCalcTest\SoftplayerCalcTest\obj\Debug\netcoreapp2.1\SoftplayerCalcTest.csproj.CoreCompileInputs.cache
 D:\Prova\SoftplayerCalcTest2\SoftplayerCalcTest\SoftplayerCalcTest\obj\Debug\netcoreapp2.1\SoftplayerCalcTest.RazorAssemblyInfo.cache
 D:\Prova\SoftplayerCalcTest2\SoftplayerCalcTest\SoftplayerCalcTest\obj\Debug\netcoreapp2.1\SoftplayerCalcTest.RazorAssemblyInfo.cs

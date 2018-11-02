@@ -7,11 +7,11 @@ namespace SoftplayerCalcTest.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ShowMeTheCodeServiceController : ControllerBase
+    public class ShowMeTheCodeController : ControllerBase
     {
         private readonly ShowMeTheCodeService _show;
         
-        public ShowMeTheCodeServiceController()
+        public ShowMeTheCodeController()
         {
             _show = new ShowMeTheCodeService();
         }

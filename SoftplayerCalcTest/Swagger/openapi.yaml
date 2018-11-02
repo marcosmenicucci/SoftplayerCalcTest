@@ -9,7 +9,7 @@ info:
   contact:
     email: marcosmenicucci@gmail.com
 paths:
-  '/api/calc/:initialValue/:time':
+  '/api/calculajuros/:initialValue/:time':
     get:
       tags:
         - Serviço para calcular juros composto
